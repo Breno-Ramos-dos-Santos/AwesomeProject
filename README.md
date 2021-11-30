@@ -5,3 +5,6 @@ uma api sobr covid-19 aonde exibi:
  * Casos no Brasil (Abril 2020 à Abril 2021)
  * Casos Confirmados Por Paises
  * Mortes por COVID - Região
+
+# Link do Projeto Hospedado
+ * https://breno-ramos-dos-santos.github.io/AwesomeProject/
